@@ -1,0 +1,17 @@
+# GROBID client & XML parsing
+httpx
+lxml
+grobid-client
+
+# PDF handling
+PyPDF2
+PyMuPDF
+
+# LLM backends
+ollama
+openai
+tiktoken
+
+# Utilities
+python-dotenv
+pyyaml
